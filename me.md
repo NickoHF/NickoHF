@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NickoHF
+- 👀 I’m interested in programming and love playing
+- 🌱 I’m currently learning Python
+- 📫 How to reach me Telegram - NickoHF
